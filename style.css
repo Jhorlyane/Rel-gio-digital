@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(215, 223, 223);
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: 100%;
+}
+img{
+    background-repeat: no-repeat;
+    margin-top: 220px;
+    margin-left: 40px;
+    text-align: center;
+
+}
+
+
+h1{
+    text-align: justify;
+    color: rgb(8, 0, 255);
+    font-size: 50px;
+}
+
+div{
+    font-family:cursive;
+    font-size: 30px;
+    text-align: center;
+    color:#0022ff;
+}
